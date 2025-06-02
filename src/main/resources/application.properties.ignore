@@ -1,0 +1,5 @@
+
+#quarkus.dev-ui.cors.enabled=false
+quarkus.devservices.enabled=false
+quarkus.kogito.devservices.enabled=false
+

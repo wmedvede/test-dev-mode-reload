@@ -50,7 +50,7 @@
       "eventRef": "callbackEvent",
       "transition": "CheckEventArrival",
       "timeouts": {
-        "eventTimeout": "PT30S"
+        "eventTimeout": "PT5M"
       }
     },
     {

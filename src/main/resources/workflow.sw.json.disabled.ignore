@@ -4,13 +4,14 @@
   "specVersion": "0.8.0",
   "name": "Hello World",
   "description": "Description",
+  "dataInputSchema": "schemas/workflow-service-schema.json",
   "start": "HelloWorld",
   "states": [
     {
       "name": "HelloWorld",
       "type": "inject",
       "data": {
-        "message": "Hello World ModifiedV11"
+        "message": "Hello World ModifiedV101"
       },
       "end": true
     }
